@@ -1,8 +1,3 @@
-name = "QuantumTrading"
-uuid = "e5bdc06b-1a6d-4b2c-b5b5-5b7d7bc0e9f1"  # UUID harus unik
-authors = ["Your Name <youremail@example.com>"]
-version = "0.1.0"
-
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
