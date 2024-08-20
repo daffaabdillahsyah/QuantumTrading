@@ -1,0 +1,13 @@
+┌ Info: 2024-08-20 17:33:36 Watching ["d:\\Work\\CodingGO\\tradingml\\QuantumTrading\\QuantumTrading\\QuantumTrading"]
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-20 17:33:38 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 17:33:43 Watching ["d:\\Work\\CodingGO\\tradingml\\QuantumTrading\\QuantumTrading\\QuantumTrading"]
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-20 17:33:43 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 17:33:44 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=ZRXHLKMFMACJNWLLPDMLKFJXVTGHSITG 
+└ @ Genie.Server C:\Users\A C E R\.julia\packages\Genie\yQwwj\src\Server.jl:182
+┌ Info: 2024-08-20 17:33:44 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\A C E R\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
