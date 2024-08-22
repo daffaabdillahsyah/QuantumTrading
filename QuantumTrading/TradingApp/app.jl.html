@@ -1,0 +1,40 @@
+<header>
+    <h1 id="im6z-2">Stock explorer</h1>
+</header>
+<div id="i5ql-2-2-2" class="row">
+    <div class="row"></div>
+    <div id="icifi" class="st-col col-12 col-sm st-module">
+        <st-big-number id="itftk" title="Close" :number="end_price"></st-big-number>
+    </div>
+    <div id="ie56q" class="st-col col-12 col-sm st-module">
+        <st-big-number id="izvb7" title="Average" :number="avg_price"></st-big-number>
+    </div>
+    <div id="i3krc" class="st-col col-12 col-sm st-module">
+        <st-big-number id="i9905" title="Difference" :number="period_diff"></st-big-number>
+    </div>
+    <div id="iwjdm" class="st-col col-12 col-sm st-module">
+        <st-big-number id="iu2hk" title="Return (%)" :number="percent_return"></st-big-number>
+    </div>
+</div>
+<div class="row">
+    <div id="ikx42" class="st-col st-module">
+        <q-select id="if539" label="Stocks" :options="stocks" v-model="selected_stock"></q-select>
+        <q-input iscomposite="true" id="iai13" :clearable="false" :filled="true" label="Start date" v-model="start_date">
+            <q-icon id="iuhyl" class="cursor-pointer" name="event">
+                <q-popup-proxy>
+                    <q-date id="ik0fk" mask="YYYY-MM-DD" :no-unset="true" :today-btn="true" v-model="start_date"></q-date>
+                </q-popup-proxy>
+            </q-icon>
+        </q-input>
+        <q-input iscomposite="true" id="i3efs" :clearable="false" :filled="true" label="End date" v-model="end_date">
+            <q-icon id="ihk84" class="cursor-pointer" name="event">
+                <q-popup-proxy>
+                    <q-date id="iux84" mask="YYYY-MM-DD" :no-unset="true" :today-btn="true" v-model="end_date"></q-date>
+                </q-popup-proxy>
+            </q-icon>
+        </q-input>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <plotly id="ikc5d" data="W3siZ2J0eXBlIjoiTGluZSBDaGFydCIsIngiOiIkX3twcmljZXMudGltZXN0YW1wfSIsInkiOiIkX3twcmljZXMuY2xvc2V9IiwidHlwZSI6InNjYXR0ZXIiLCJtb2RlIjoibGluZXMiLCJuYW1lIjoiY2xvc2UifSx7IngiOiIkX3twcmljZXMudGltZXN0YW1wfSIsInkiOiIkX3twcmljZXMubWEyMH0iLCJ0eXBlIjoic2NhdHRlciIsIm5hbWUiOiJtYTIwIn1d" config="e30=" layout="eyJ0aXRsZSI6IlRyYWRpbmcgQ2hhcnQifQ=="></plotly>
+    </div>
+</div>
