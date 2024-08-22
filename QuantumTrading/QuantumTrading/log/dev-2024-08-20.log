@@ -11,3 +11,32 @@
 └ @ Genie.Server C:\Users\A C E R\.julia\packages\Genie\yQwwj\src\Server.jl:182
 ┌ Info: 2024-08-20 17:33:44 Listening on: 127.0.0.1:9101, thread id: 1
 └ @ HTTP.Servers C:\Users\A C E R\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-20 19:14:23 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 19:14:23 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 19:20:04 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 19:20:04 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 19:20:25 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 19:20:25 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 19:20:28 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 19:20:28 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 23:33:58 Watching ["d:\\Work\\CodingGO\\tradingml\\QuantumTrading\\QuantumTrading\\QuantumTrading"]
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-20 23:33:59 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 23:34:06 Watching ["d:\\Work\\CodingGO\\tradingml\\QuantumTrading\\QuantumTrading\\QuantumTrading"]
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-20 23:34:06 Autoreloading
+└ @ GenieAutoReload C:\Users\A C E R\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-20 23:34:08 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=ASCFFOMESNTSADITHTJDDQQJCSZFYUQA 
+└ @ Genie.Server C:\Users\A C E R\.julia\packages\Genie\yQwwj\src\Server.jl:182
+┌ Info: 2024-08-20 23:34:08 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\A C E R\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
